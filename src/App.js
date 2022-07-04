@@ -1,7 +1,8 @@
+import People from "./components/People";
 
 function App() {
   return (
-    <h1>hola</h1>
+    <People/>
   );
 }
 
